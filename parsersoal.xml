@@ -1,3 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"></xs:schema>
-<BankSoal></BankSoal>
+<BankSoal>
+    <Soal>
+        <soal>
+            Berapa jumlah planet di tata surya?
+        </soal>
+        <jawaban1>
+            6
+        </jawaban1>
+        <jawaban2>
+            7
+        </jawaban2>
+        <jawaban3>
+            8
+        </jawaban3>
+        <jawaban4>
+            9
+        </jawaban4>
+    </Soal>
+    <Soal>
+        <soal>
+            Berapa jumlah provinsi di indonesia?
+        </soal>
+        <jawaban1>
+            34
+        </jawaban1>
+        <jawaban2>
+            20
+        </jawaban2>
+        <jawaban3>
+            23
+        </jawaban3>
+        <jawaban4>
+            21
+        </jawaban4>
+    </Soal>
+    <Soal>
+        <soal>
+            Berapa jumlah pacar rizki?
+        </soal>
+        <jawaban1>
+            1
+        </jawaban1>
+        <jawaban2>
+            0
+        </jawaban2>
+        <jawaban3>
+            2
+        </jawaban3>
+        <jawaban4>
+            3
+        </jawaban4>
+    </Soal>
+    <Soal>
+        <soal>
+            Siapa Presiden Indonesia ke 1?
+        </soal>
+        <jawaban1>
+            Soekarno
+        </jawaban1>
+        <jawaban2>
+            Jokowi
+        </jawaban2>
+        <jawaban3>
+            Prabowo
+        </jawaban3>
+        <jawaban4>
+            Megawati
+        </jawaban4>
+    </Soal>
+</BankSoal>
